@@ -1,2 +1,1 @@
-# projectK
-kwangwoonkiosk
+# TripleK
